@@ -7,7 +7,7 @@
     👋 加入我们的 <a href="https://join.slack.com/t/chatglm/shared_invite/zt-1udqapmrr-ocT1DS_mxWe6dDY8ahRWzg" target="_blank">Slack</a> 和 <a href="resources/WECHAT.md" target="_blank">WeChat</a>
 </p>
 
-*Read this in [English](README_en.md).*
+**Read this in [English](README_en.md).**
 
 ## 介绍
 
